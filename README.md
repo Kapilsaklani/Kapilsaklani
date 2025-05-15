@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapilsaklani
 - 👀 I’m interested in Software development and Web development
-- 🌱 I’m currently learning Python,C,HTML,CSS,JAVASCRIPT
+- 🌱 I’m currently learning Web Dev And Software Dev
 - 💞️ I’m looking to collaborate on Projects & Internships
 - 📫 How to reach me kapilsaklani0056@gmail.com
 
